@@ -15,7 +15,7 @@ let package = Package(
         ],
         dependencies: [
             .package(url: "https://github.com/horizontalsystems/LanguageKit.Swift.git", .upToNextMajor(from: "1.0.0")),
-            .package(url: "https://github.com/horizontalsystems/StorageKit.Swift.git", .upToNextMajor(from: "2.0.0")),
+            .package(url: "https://github.com/rudyname/StorageKit.Swift.git", .upToNextMajor(from: "2.0.0")),
             .package(url: "https://github.com/horizontalsystems/HsExtensions.Swift.git", .upToNextMajor(from: "1.0.6")),
         ],
         targets: [
