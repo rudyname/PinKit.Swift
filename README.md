@@ -8,7 +8,7 @@ Pin components
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/horizontalsystems/PinKit.Swift.git", .upToNextMajor(from: "1.0.0"))
+    .package(url: "https://github.com/rudyname/PinKit.Swift.git", .upToNextMajor(from: "1.0.0"))
 ]
 ```
 
